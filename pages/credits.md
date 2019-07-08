@@ -5,11 +5,11 @@
 ## Project Credits
 
 * [David J. Thomas](mailto:davidjthomas@usf.edu)
-		* Replace with your description of your role in the project.
+    * Replace with your description of your role in the project.
 * Fake Other Person
-		* Placeholder
+    * Placeholder
 * Fake Other Person
-		* Placeholder
+    * Placeholder
 
 ---
 
