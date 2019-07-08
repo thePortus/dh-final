@@ -4,9 +4,12 @@
 
 ## Project Credits
 
-* Put your group member's credits here
-* Link to any emails or github accounts (if you want)
-* Leave the credits at the bottom
+* [David J. Thomas](mailto:davidjthomas@usf.edu)
+		* Replace with your description of your role in the project.
+* Fake Other Person
+		* Placeholder
+* Fake Other Person
+		* Placeholder
 
 ---
 
